@@ -5,6 +5,8 @@
 
     can be used in tandem with 'grep' for
      information gathering of all sorts
+       
+       gcc xonum.c -o xonum; ./xonum
 
         functional as of april 2020
                ~ alex snez
